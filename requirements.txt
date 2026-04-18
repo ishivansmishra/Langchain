@@ -14,3 +14,4 @@ langchain_huggingface
 faiss-cpu
 chroma
 langchain_chroma
+streamlit
